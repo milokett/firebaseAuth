@@ -11,16 +11,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          {" "}
+          Welcome: {user.displayName} - {user.email}{" "}
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Welcome: {user.displayName} - {user.email}
-        </a>
       </header>
     </div>
   );
