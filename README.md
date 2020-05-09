@@ -1,2 +1,0 @@
-# firebaseAuth
-Created with CodeSandbox
